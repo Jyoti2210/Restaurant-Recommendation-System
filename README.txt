@@ -1,6 +1,4 @@
-################
-## Background ##
-################
+##Background##
 
 This project is based on the dataset which was released by Yelp of it's data challenge. 
 Dataset is available at https://www.yelp.com/dataset/download
